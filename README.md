@@ -9,8 +9,6 @@ PS:本人并非此程序作者,且与H萌娘无任何关联,后续此程序也�
 
 谷歌(hk) / 油管(hk) / 推特 / 电报(web) / Github / 维基百科 / H萌娘 / Discord(web) / Pixiv / E-hentai / K岛(表.里.wiki) / 伪基百科(cn.tw.hk) / Steam / Niconico / Mega / Danbooru / Pinterest / jsDelivr
 
-
-该工具由850710247liu制作，完全免费，欢迎前往项目页 https://github.com/850710247liu/TCPioneer(网址已失效) 为其点Star。
-
+本程序由850710247liu基于https://github.com/macronut/ghostcp 制作,完全免费
 
 R.I.P. H萌娘 9.1
